@@ -25,7 +25,7 @@ with col3:
 st.markdown("##### Bienvenidos al Panel de Stock clientes AFP Capital, Aqui encontrarás la información necesaria para su gestión")
 
 #importar datos
-base = pd.read_csv('Base.csv',sep = ";")
+base = pd.read_csv('base.csv',sep = ";")
 
 
 #Filtro de segmento
